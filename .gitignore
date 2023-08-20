@@ -1,0 +1,20 @@
+# ignore compiled Python files
+__pycache__/
+
+# ignore virtual environment directories
+venv/
+env/
+
+# ignore editor and IDE files
+.idea/
+.vscode/
+
+# ignore sensitive configuration files
+config.ini
+
+# ignore log files
+*.log
+
+# ignore compiled binaries
+*.exe
+*.dll
