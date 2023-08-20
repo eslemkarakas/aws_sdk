@@ -106,6 +106,5 @@ def redshift_read(config, sql_query):
 
     return df
 
-     
-file_type = 'csv'
-print(file_type in ['csv', 'xlsx'])
+if __name__ == "__main__":
+    print('https://www.linkedin.com/in/eslemkarakas/')
